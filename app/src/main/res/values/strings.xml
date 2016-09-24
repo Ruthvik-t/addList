@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">addList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="myComp">
+        <item>Google</item>
+        <item>Tesco</item>
+        <item>Oracle</item>
+        <item>Adobe</item>
+    </string-array>
+</resources>
